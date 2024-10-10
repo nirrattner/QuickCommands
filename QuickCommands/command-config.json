@@ -1,0 +1,14 @@
+[
+  {
+    "key": "python",
+    "command": "/usr/bin/open -a /Applications/Utilities/Terminal.app /usr/local/opt/python@3.8/bin/python3"
+  },
+  {
+    "key": "terminal",
+    "command": "/usr/bin/open -a /Applications/Utilities/Terminal.app ~"
+  },
+  {
+    "key": "shuffle",
+    "command": "/usr/bin/open https://nirrattner.github.io/ShuffleAlbum/"
+  }
+]
